@@ -4,7 +4,7 @@ compared 3 algorithms of image analysis in terms of accuracy, precision, F-measu
 画像解析に使われる
 HaarLike特徴抽出 + cascade識別器
 LBP特徴抽出 + cascade識別器
-HOG特徴抽出 + SVM識別器
+HOG特徴抽出 + SVM識別器 
 
 の３つのモデルの精度と実行速度を比べました。
 
